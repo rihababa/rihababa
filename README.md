@@ -1,0 +1,4 @@
+- 👋 Hi, I’m rihaaab
+- 👀 I’m interested in web development,security,networking 
+- 🌱 I’m currently learning web development,game development 
+- ⚡ Fun fact: love challenges
