@@ -1,4 +1,4 @@
 - 👋 Hi, I’m rihaaab
-- 👀 I’m interested in web development,security,networking 
-- 🌱 I’m currently learning web development,game development 
+- 👀 I’m interested in web development,ai,security,networking 
+- 🌱 I’m currently learning backend,ML
 - ⚡ Fun fact: love challenges
